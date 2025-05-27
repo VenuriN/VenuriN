@@ -6,7 +6,13 @@
 - 🌱 Actively learning and experimenting with the MERN stack, Android development with Kotlin, and cloud technologies like Firebase  
 - 🔍 Interested in clean code practices, UI/UX design, and agile development methodologies  
 - 🚀 Always eager to collaborate on innovative projects and open to new challenges in software development  
-- 📫 Feel free to reach out to me at: **nuwangavenuri@gmail.com** 
+- 📫 Feel free to reach out to me at: **nuwangavenuri@gmail.com**
+
+   &nbsp;
+  &nbsp;   
+
+  <hr>
+  &nbsp;  
 
 ### 🛠️ Languages and Tools  
 **I know all the technologies listed below and have used them in my projects:**
@@ -46,13 +52,14 @@
 
 </p>
 
-
+&nbsp;  
 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nuwanga-watagedara-206b1627a)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat)](https://www.instagram.com/_venuri_nuwanga_)
 
+&nbsp;  
 
 ### 📌 Pinned Projects
 - 🍰 [Online Cake Ordering System](https://github.com/VenuriN/Online-Cake-ordering-management-system)
