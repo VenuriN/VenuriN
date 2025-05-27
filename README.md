@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Venuri Nuwanga</h1>
-<h3 align="center">Software Engineering Undergraduate | App Developer </h3>
+<h3 align="center">Software Engineering Undergraduate  </h3>
 
 - 🎓 Currently pursuing a Bachelor's degree in Software Engineering at SLIIT  
 - 💡 Passionate about designing and developing user-friendly, scalable, and impactful mobile and web applications  
