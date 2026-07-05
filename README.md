@@ -62,6 +62,8 @@
 &nbsp;  
 
 ### 📌 Pinned Projects
+- 🏥 [AI-Powered Hospital Management System](https://github.com/TharangaJ123/AI-Powered-Hospital-Management-System)
+- ⚡ [Flux Energy Audit](https://github.com/TharangaJ123/flux-energy-audit)
 - 🍰 [Online Cake Ordering System](https://github.com/VenuriN/Online-Cake-ordering-management-system)
 - 💰 [Finance Tracker](https://github.com/VenuriN/Financial-Tracker)
 - 🧺 [Laundry Management App](https://github.com/VenuriN/Laundry-managemnt)
