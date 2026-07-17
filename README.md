@@ -3,7 +3,7 @@
 
 - 🎓 Currently pursuing a Bachelor's degree in Software Engineering at SLIIT  
 - 💡 Passionate about designing and developing user-friendly, scalable, and impactful mobile and web applications  
-- 🌱 Actively learning and experimenting with the MERN stack, Android development with Kotlin, and cloud technologies like Firebase  
+- 🌱 Actively learning and experimenting with the MERN stack, Angular Framework, Android development with Kotlin, and cloud technologies like Firebase  
 - 🔍 Interested in clean code practices, UI/UX design, and agile development methodologies  
 - 🚀 Always eager to collaborate on innovative projects and open to new challenges in software development  
 - 📫 Feel free to reach out to me at: **nuwangavenuri@gmail.com**
