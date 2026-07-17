@@ -17,7 +17,7 @@
 **I know all the technologies listed below and have used them in my projects:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,php,cs,c,cpp,html,css,bootstrap,tailwind,angular,react,nodejs,express,dotnet,mongodb,mysql,firebase,androidstudio,postman,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,php,c,cpp,cs,html,css,bootstrap,tailwind,angular,react,nodejs,express,dotnet,mongodb,mysql,firebase,androidstudio,postman" />
 </p>
 
 &nbsp;  
