@@ -141,8 +141,8 @@ Agile Development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VenuriN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=VenuriN&theme=tokyonight&hide_border=true&stroke=1a1b27" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VenuriN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=VenuriN&theme=tokyonight&hide_border=true&stroke=1a1b27&width=495&height=195" />
 </p>
 
 ---
